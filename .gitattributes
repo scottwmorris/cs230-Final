@@ -1,2 +1,0 @@
-santander/*.csv filter=lfs diff=lfs merge=lfs -text
-santander/*.npy filter=lfs diff=lfs merge=lfs -text
